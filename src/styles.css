@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'SFont';
-  src: url('https://fonts.google.com/specimen/Pacifico') format('Pacifico'),
-       url('https://fonts.google.com/specimen/Shadows+Into+Light') format('Shadows+Into+Light');
+  src: url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap') format('Pacifico'),
+       url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap') format('Shadows+Into+Light');
   font-weight: normal;
   font-style: normal;
 }
