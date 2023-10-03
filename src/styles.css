@@ -1,11 +1,14 @@
 @font-face {
-  font-family: 'SFont';
-  src: url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap') format('Pacifico'),
-       url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap') format('Shadows+Into+Light');
-  font-weight: normal;
-  font-style: normal;
+    font-family: 'Pacifico';
+    src: url('fonts/Pacifico-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
-  font-family: 'SFont', sans-serif;
+    font-family: 'Pacifico', sans-serif;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px #000000;
 }
